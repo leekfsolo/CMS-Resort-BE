@@ -1,0 +1,141 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DataContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CMS_Resort",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+  "Tables": [
+    {
+      "Name": "public.area",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.bed_information",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.booking_reservation",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.branch",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.branch_image",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.branch_with_roomtypes",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.business_premise",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.customer",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.enterprise",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.invoice",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.premise_image",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.premise_operation_time",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.rental_room",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.room",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.room_supplies",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.roomtype",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.service",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.service_package",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.service_package_invoice",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.souvenir_brand",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.souvenir_type",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.spa_service",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.suppliers",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.supplies",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.supplies_types",
+      "ObjectType": 0
+    },
+    {
+      "Name": "public.supplying",
+      "ObjectType": 0
+    }
+  ],
+   "UiHint": "CMS_Resort",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
